@@ -63,4 +63,10 @@ This project presents a comparative study of various TCP congestion control algo
    - `qos_simulation.m`
 3. Run the script to view graphs and performance output in the Command Window.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this code with proper attribution.  
+Please retain the license file and mention the original author in derived works.
+
 
